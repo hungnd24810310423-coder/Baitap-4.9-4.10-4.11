@@ -1,0 +1,15 @@
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.exe
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.deps.json
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.runtimeconfig.json
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.dll
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.pdb
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.AssemblyInfoInputs.cache
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.AssemblyInfo.cs
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.csproj.CoreCompileInputs.cache
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.dll
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\refint\ClinicAppointmentManager.dll
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.pdb
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.genruntimeconfig.cache
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ref\ClinicAppointmentManager.dll
+E:\ClinicAppointmentManager2\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAp.0B201D38.Up2Date
